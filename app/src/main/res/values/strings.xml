@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="button">button</string>
+    <string name="prospective_students_application">Prospective students application</string>
+    <string name="button2" />
+    <string name="Admins" />
+    <string name="title_activity_admins">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="Specialties">Specialties</string>
+    <string name="Next">Next</string>
+    <string name="Admin">Admins</string>
+    <string name="Guest">Guest</string>
+    <string name="Sign_in">action_sign_in</string>
+    <string name="password">password</string>
+    <string name="name">name</string>
+    <string name="attempt">Attempt</string>
+    <string name="username">username1</string>
+    <string name="Button">Button</string>
+    <string name="login_text">logintx</string>
+    <string name="button_login">btn</string>
+    <string name="attempts_text">att</string>
+    <string name="password_text">pass</string>
+    <string name="usename_text">user</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>

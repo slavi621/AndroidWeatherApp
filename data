@@ -1,0 +1,18 @@
+CREATE DATABASE University_specialties;
+
+CREATE TABLE Specialty (name VARCHAR(200), field VARCHAR(200), subfield VARCHAR(200), duration_in_years INT,number_of_semesters INT, skills_acquired VARCHAR(200), future_proffesions VARCHAR(200));
+
+INSERT INTO Specialty
+VALUES('Politology','NULL','Political science','4','8','Theoretical and practical knowledges.','Experts in political sciences');
+INSERT INTO Specialty
+VALUES('Law','Law','NULL','5','11','Law materials','Layers');
+INSERT INTO Specialty
+VALUES('Sociology','Sociology, Anthropology and cultural sciences','NULL','4','8','Theoretical and metological knowledge','In social and economic fiels');
+INSERT INTO Specialty
+VALUES('Accountancy','NULL','Finance, Accountancy and control','4','8','Develop fundamental knowledge and skills','Accountants');
+INSERT INTO Specialty
+VALUES('Accountancy and control','NULL','Finance, Accountancy and control','4','8','Develop fundamental accounting and contol skills','Public and private organizations and firms');
+INSERT INTO Specialty
+VALUES('Finance','NULL','Finance, Accountancy and control','4','8','Financial knowledge','Financial institutions');
+INSERT INTO Specialty
+VALUES('Financial Control','NULL','Finance, Accountancy and control','4','8','Financial and accountant practises','Experts and inspectors in Financial agencies');
